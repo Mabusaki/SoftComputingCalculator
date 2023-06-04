@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        Double[] C1 = { };
+        Double[] C1 = { 0.1};
         Double[] C2 = { };
         Double[] C3 = { };
         Double[] C4 = { };
